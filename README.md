@@ -1,4 +1,4 @@
-# Finding-Matrix-Transpose
+# Matrix-Transpose-Finding
 - Çok boyutlu diziler ile oluşturulmuş matrisin transpozunu bulan program;
 
 * Matrisin transpozunu (devriğini) almak, matrisin aynı numaralı satırları ile sütunlarının yer değiştirmesi demektir.
